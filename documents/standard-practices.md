@@ -31,6 +31,8 @@ _Inspired by [jbenet's "simple branching model"](https://gist.github.com/jbenet/
   * a summary of what your PR includes
   * a description of your approach
   * commentary on the larger story around your PR
+* Open a [Draft Pull Request](https://github.blog/2019-02-14-introducing-draft-pull-requests/) early, and then mark it as "Ready for review" when it's complete.
+  * This helps the entire team see what code is likely to make it onto `master` in the near future.
 
 #### Commits
 
