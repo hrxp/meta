@@ -30,7 +30,7 @@ Each pull request opened against `master` must receive one approving review befo
 
 When a team lead reviews a pull request, they should do their best to provide high-level feedback about the architecture and approach of the code in question, as well as context around the change requests they make.
 
-## ⏱ Expectations
+## Expectations
 
 Each participant has given a 5 hour per week commitment to the team. 
 
