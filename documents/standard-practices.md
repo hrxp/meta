@@ -6,6 +6,7 @@ Almost everything here is a _guideline_. Don't be afraid to bend or break them i
 
 * Format your code using [Prettier](https://prettier.io).
 * Take advantage of [modern JavaScript syntax](http://es6-features.org/).
+* Design applications that adhere to the [Twelve-Factor App](https://12factor.net) methodology.
 
 ## Version control
 
